@@ -1,0 +1,15 @@
+GetComputerName
+GetSystemMetrics
+GetWindowsDirectoty
+GetKeyboardTyре
+GetTempPath
+SetСоmрuterName
+GetSysColor
+GetUserName
+SetSysColors
+CecSystemDirectory
+GetVersion
+SystemParametersInfo
+GetSystemlnfo
+GetVersioriEx
+GetUserName
